@@ -1,0 +1,8 @@
+{
+  "name": "Example Standard Object",
+  "author": "Principia Modding Example",
+  "enabled": true,
+  "objects": [
+    "objects/standard_console.json"
+  ]
+}

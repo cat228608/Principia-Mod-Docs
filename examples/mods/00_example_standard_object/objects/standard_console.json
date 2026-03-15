@@ -1,0 +1,18 @@
+{
+  "id": "standard_console",
+  "name": "Standard Console",
+  "icon": "objects/standard_console_icon.png",
+  "script": "objects/standard_console.lua",
+  "model": "objects/standard_console.3ds",
+  "texture": "objects/standard_console_texture.png",
+  "material": "metal",
+  "shape": "rect",
+  "width": 0.325,
+  "height": 0.1625,
+  "menu_scale": 1.0,
+  "moveable": true,
+  "allow_rotation": true,
+  "allow_connections": false,
+  "sockets_in": 0,
+  "sockets_out": 0
+}

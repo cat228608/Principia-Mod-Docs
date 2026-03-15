@@ -1,0 +1,8 @@
+{
+  "name": "Object Skeleton",
+  "author": "Template",
+  "enabled": true,
+  "objects": [
+    "objects/my_object.json"
+  ]
+}

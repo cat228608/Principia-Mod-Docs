@@ -1,0 +1,18 @@
+{
+  "id": "my_object",
+  "name": "My Object",
+  "icon": "objects/my_object_icon.png",
+  "script": "objects/my_object.lua",
+  "model": "objects/my_object.3ds",
+  "texture": "objects/my_object_texture.png",
+  "material": "metal",
+  "shape": "rect",
+  "width": 0.5,
+  "height": 0.5,
+  "menu_scale": 1.0,
+  "moveable": true,
+  "allow_rotation": true,
+  "allow_connections": false,
+  "sockets_in": 0,
+  "sockets_out": 0
+}

@@ -1,0 +1,8 @@
+{
+  "name": "NPC Skeleton",
+  "author": "Template",
+  "enabled": true,
+  "objects": [
+    "objects/npc_bot.json"
+  ]
+}

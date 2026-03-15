@@ -1,0 +1,18 @@
+{
+  "id": "npc_bot",
+  "name": "NPC Bot",
+  "icon": "objects/npc_bot_icon.png",
+  "script": "objects/npc_bot.lua",
+  "model": "objects/npc_bot.3ds",
+  "texture": "objects/npc_bot_texture.png",
+  "material": "robot",
+  "shape": "rect",
+  "width": 0.35,
+  "height": 0.6,
+  "menu_scale": 1.0,
+  "moveable": true,
+  "allow_rotation": true,
+  "allow_connections": false,
+  "sockets_in": 0,
+  "sockets_out": 0
+}
